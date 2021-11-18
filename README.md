@@ -1,6 +1,6 @@
 # Pierre-papier-ciseau
 
-This program is written by #Yesunana
+This program is written by Yesunana
 
 It is an implementation of game called, 'pierre-papier-ciseau'
 
